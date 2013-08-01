@@ -137,5 +137,5 @@ included in the project:
 7. [Open a Pull Request](https://help.github.com/articles/using-pull-requests/)
     with a clear title and description.
 
-**IMPORTANT**: By submitting a patch, you agree to allow the project owner to
-license your work under the same license as that used by the project.
+**IMPORTANT**: By submitting a patch, you agree to allow the project owners to
+license your work under the the terms of the [MIT License](LICENSE.md).
